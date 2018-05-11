@@ -7,7 +7,7 @@ Scripts: run install.sql
 Test:
 
 
-select gen.generateKeys('256', 'live') 
+`select gen.generateKeys('256', 'live')`
 
 Result (in xml):
 <sqroot>
