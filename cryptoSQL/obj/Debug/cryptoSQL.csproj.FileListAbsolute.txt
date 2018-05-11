@@ -1,8 +1,0 @@
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\bin\Debug\cryptoSQL.dll
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\bin\Debug\cryptoSQL.pdb
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\obj\Debug\cryptoSQL.csprojResolveAssemblyReference.cache
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\obj\Debug\cryptoSQL.csproj.CoreCompileInputs.cache
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\obj\Debug\cryptoSQL.dll
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\obj\Debug\cryptoSQL.pdb
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\bin\Debug\crypto.dll
-E:\vsonline\crypto\cryptoSQL\cryptoSQL\bin\Debug\crypto.pdb

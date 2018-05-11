@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cryptoSQL", "cryptoSQL\cryptoSQL.csproj", "{991D3D8B-44CD-48CB-BFEF-AE9BA7C5DA2E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crypto.Net45", "..\bccrypto-csharp-1.8.2-src\bccrypto-csharp-1.8.2\crypto\crypto.Net45.csproj", "{45473847-8AF8-4BAF-B768-442C6875B8CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cryptoSQL", "cryptoSQL.csproj", "{991D3D8B-44CD-48CB-BFEF-AE9BA7C5DA2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,15 +15,11 @@ Global
 		{991D3D8B-44CD-48CB-BFEF-AE9BA7C5DA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{991D3D8B-44CD-48CB-BFEF-AE9BA7C5DA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{991D3D8B-44CD-48CB-BFEF-AE9BA7C5DA2E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{45473847-8AF8-4BAF-B768-442C6875B8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45473847-8AF8-4BAF-B768-442C6875B8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45473847-8AF8-4BAF-B768-442C6875B8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45473847-8AF8-4BAF-B768-442C6875B8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BE95872B-E6CB-413E-A82F-F9265DB6E9B9}
+		SolutionGuid = {6E8A023A-DBF7-4DC3-992C-19CBD99459DD}
 	EndGlobalSection
 EndGlobal
